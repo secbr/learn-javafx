@@ -17,12 +17,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="learn-javafx-button" />
-        <module name="learn-javafx-image" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="learn-javafx-button" target="8" />
-      <module name="learn-javafx-image" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

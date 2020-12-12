@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learn-javafx-button.iml" filepath="$PROJECT_DIR$/learn-javafx-button.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../learn-javafx-image/learn-javafx-image.iml" filepath="$PROJECT_DIR$/../learn-javafx-image/learn-javafx-image.iml" />
     </modules>
   </component>
 </project>

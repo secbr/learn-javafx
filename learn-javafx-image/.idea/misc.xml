@@ -30,7 +30,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../learn-javafx-image/pom.xml" />
       </list>
     </option>
   </component>
