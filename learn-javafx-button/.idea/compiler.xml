@@ -16,11 +16,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="learn-javafx-button" />
+        <module name="learn-javafx-003-photos" />
         <module name="learn-javafx-image" />
+        <module name="learn-javafx-button" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="learn-javafx-003-photos" target="8" />
       <module name="learn-javafx-button" target="8" />
       <module name="learn-javafx-image" target="8" />
     </bytecodeTargetLevel>
